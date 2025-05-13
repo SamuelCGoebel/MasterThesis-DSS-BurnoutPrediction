@@ -62,7 +62,7 @@ Each experiment included model training, evaluation, and error analysis. Feature
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 - **Classification**: AUC, F1 Score, Precision, Recall, PR-AUC
 - **Regression**: R², MAE, RMSE, Residual Plots
@@ -70,7 +70,7 @@ Each experiment included model training, evaluation, and error analysis. Feature
 
 ---
 
-## 📦 Contents
+## Contents
 
 - `data/`: Original and preprocessed dataset
 - `notebooks/`: Google Colab notebooks
