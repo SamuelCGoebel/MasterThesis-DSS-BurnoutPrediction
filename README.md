@@ -3,7 +3,7 @@
 
 This repository contains 4 experiments focused on predicting **burnout** and **burnout severity** among medical students using a publicly available dataset from **Carrard et al. (2022)**.
 
-## 📁 Project Overview
+## Project Overview
 
 The goal of this project was twofold:
 1. **Classify** students as experiencing burnout or not (binary classification).
@@ -79,7 +79,7 @@ Each experiment included model training, evaluation, and error analysis. Feature
 
 ---
 
-## 📌 Acknowledgments
+## Acknowledgments
 
 - Dataset: Carrard, V., et al. (2022). [Carrard, V., Bourquin, C., Berney, S., Schlegel, K., Gaume, J., Bart, P., Preisig, M., Mast, M. S., & Berney, A. (2022a). Dataset for the paper “The relationship between medical students’ empathy, mental health, and burnout: A cross-sectional study” published in Medical Teacher (2022) [Dataset]. In Zenodo (CERN European Organization for Nuclear Research). https://doi.org/10.5281/zenodo.5702895
 
