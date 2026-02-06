@@ -1,4 +1,4 @@
-# Master Thesis Data Science and Society
+# Master Thesis Data Science
 # Burnout Prediction Among Medical Students
 
 This repository contains 4 experiments focused on predicting **burnout** and **burnout severity** among medical students using a publicly available dataset from **Carrard et al. (2022)**.
